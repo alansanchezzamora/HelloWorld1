@@ -18,7 +18,4 @@ The software loads a simulated dataset of cloud service costs into  **Amazon Dyn
 
 * [AWS Documentation – DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html)
 * [AWS Lambda Developer Guide](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html)
-* [AWS Serverless Application Model (SAM)](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html)
-* [Boto3 Documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
 * [AWS Architecture Icons](https://aws.amazon.com/architecture/icons/)
-* [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)
