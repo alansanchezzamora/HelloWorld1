@@ -6,7 +6,7 @@ This project mimics a simplified version of real-world cost analysis platforms l
 
 The software loads a simulated dataset of cloud service costs into  **Amazon DynamoDB**, and  integrates with **Amazon QuickSight** for data visualization.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Er3rk-Gm7WI)
 
 **Technologies and Tools Used:**
 - AWS Lambda  
