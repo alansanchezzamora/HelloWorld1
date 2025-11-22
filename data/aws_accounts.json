@@ -2,22 +2,22 @@
   {
     "account_id": "ACC001",
     "account_name": "Prod",
-    "owner_email": "prod@demo.com"
+    "owner_email": "prod@company.com"
   },
   {
     "account_id": "ACC002",
     "account_name": "Dev",
-    "owner_email": "dev@example.com"
+    "owner_email": "dev@demo.com"
   },
   {
     "account_id": "ACC003",
     "account_name": "Test",
-    "owner_email": "test@demo.com"
+    "owner_email": "test@company.com"
   },
   {
     "account_id": "ACC004",
     "account_name": "Analytics",
-    "owner_email": "analytics@demo.com"
+    "owner_email": "analytics@company.com"
   },
   {
     "account_id": "ACC005",

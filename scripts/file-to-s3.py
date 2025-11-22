@@ -10,11 +10,11 @@ which allows Python developers to write software that makes use of services like
 s3 = boto3.client("s3")
 
 # Define Variables
-bucket_name = "mi-bucket-de-prueba-alan123"
+bucket_name = "sprint1-bucket"
 files_to_upload = [
     {
-        "local_path": "data/aws_cloud_costs_1000.json",
-        "s3_key": "aws_cloud_costs_1000.json",
+        "local_path": "data/aws_cloud_costs.json",
+        "s3_key": "aws_cloud_costs.json",
     },
     {"local_path": "data/aws_accounts.json", "s3_key": "aws_accounts.json"},
 ]

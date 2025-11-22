@@ -8,7 +8,7 @@ domains = ["example.com", "company.com", "demo.com"]
 # Simulated accounts
 accounts = []
 for i in range(1, 6):
-    account_id = [f"ACC{i:03}" for i in range(1, 6)]
+    account_id = f"ACC{i:03}"
     account_name = account_names[i - 1]
     owner_email = f"{account_name.lower()}@{random.choice(domains)}"
 
