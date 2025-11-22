@@ -1,0 +1,27 @@
+[
+  {
+    "account_id": "ACC001",
+    "account_name": "Prod",
+    "owner_email": "prod@demo.com"
+  },
+  {
+    "account_id": "ACC002",
+    "account_name": "Dev",
+    "owner_email": "dev@example.com"
+  },
+  {
+    "account_id": "ACC003",
+    "account_name": "Test",
+    "owner_email": "test@demo.com"
+  },
+  {
+    "account_id": "ACC004",
+    "account_name": "Analytics",
+    "owner_email": "analytics@demo.com"
+  },
+  {
+    "account_id": "ACC005",
+    "account_name": "Alan",
+    "owner_email": "alan@demo.com"
+  }
+]
